@@ -15,7 +15,7 @@ body {
 	background-image: url('b.jpg');
 }
 a {	color: rgb(224, 212, 39);	background: inherit; text-decoration:none; }
-h1 { color: blue;}
+h1 { color: pink;}
 h3 { color: #f1db0a;}
 textarea {color: #000000; background:#ffffb0;}
 input {color: #000000; background:#ffffb0;}
